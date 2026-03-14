@@ -9,4 +9,5 @@ Dashboard que cruza previsão do tempo com odds do Polymarket para os mercados d
 - Gera análise automática comparando previsão vs odds do mercado
 - Mostra mini previsão de 5 dias por cidade
 
+https://weatherpoly-dz7ftjwzythjcgsgeg3lzk.streamlit.app/ 
 
